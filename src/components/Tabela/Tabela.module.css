@@ -1,0 +1,15 @@
+.thead, .tr{
+    width: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+.tbody{
+    margin-top: 8px;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
